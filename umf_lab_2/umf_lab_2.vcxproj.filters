@@ -62,4 +62,9 @@
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Filter>Исходные файлы</Filter>
+    </None>
+  </ItemGroup>
 </Project>

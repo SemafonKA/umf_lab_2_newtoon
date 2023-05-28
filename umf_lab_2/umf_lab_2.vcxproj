@@ -148,6 +148,9 @@
     <Text Include="iofiles\s2_edges.txt" />
     <Text Include="iofiles\s3_edges.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
